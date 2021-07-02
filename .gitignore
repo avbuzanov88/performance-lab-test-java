@@ -1,0 +1,11 @@
+target/generated-sources
+target/maven-archiver
+target/maven-status
+target/classes
+*/target/generated-sources
+*/target/maven-archiver
+*/target/maven-status
+*/target/classes
+.settings
+.classpath
+.project
